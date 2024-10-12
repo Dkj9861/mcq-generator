@@ -1,4 +1,5 @@
 openai
+pandas
 pypdf2
 streamlit
 langchain
