@@ -2,7 +2,7 @@ import os
 import json
 import traceback
 import pandas as pd
-from dotenv import load_dotenv
+#from dotenv import load_dotenv
 import streamlit as st
 from mcqgenerator.utils import read_file,get_table_data
 from mcqgenerator.logger import logging
